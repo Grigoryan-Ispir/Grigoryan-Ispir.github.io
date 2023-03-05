@@ -1,0 +1,30 @@
+#users-box, nav{
+    width: 65%;
+    margin: 50px auto;
+    border: 2px solid black;
+    padding: 10px;
+    overflow: hidden;
+}
+
+
+nav> input{
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+    font-size: 24px;
+}
+
+#search-button {
+    margin: 10px auto;
+    display: block;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.user-item{
+    width: 95%;
+    border: 1px solid blue;
+    padding: 10px;
+    float: left;
+    margin: 10px;
+}
